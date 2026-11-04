@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://carevolution.vercel.app/sitemap.xml
+Sitemap: https://carevolution-uias.vercel.app/sitemap.xml
